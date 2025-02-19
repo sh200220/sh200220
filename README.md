@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Sehyun Park! 
 
-<!--
-**sh200220/sh200220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 About Me
+- 🏫 **Kookmin University** | AI-Big Data Convergence Management  
+- 📊 Interested in **FinTech, AI, and Big Data Analytics**  
+- 🛠 Currently working on **Sleep Apnea Detection using SSL**  
 
-Here are some ideas to get you started:
+### 🔗 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/sehyun-park)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sehyun-park)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Projects & Research
+📌 **Sleep Apnea Detection using SSL**  
+📌 **Self-Supervised Anomaly Detection for Exhaust Sound Analysis**  
+📌 **FinTech Data Analysis Projects**  
+
+> 🚀 More projects coming soon!  
+
+---
+
+### ⚡ Skills  
+🔹 **Programming:** Python, SQL, Java  
+🔹 **Data Analysis:** Pandas, NumPy, Scikit-learn  
+🔹 **AI & ML:** TensorFlow, PyTorch  
+🔹 **Cloud & DB:** AWS, MySQL  
+
+---
+⭐️ *Check out my projects on [GitHub](https://github.com/sehyun-park)*
