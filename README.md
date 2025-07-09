@@ -44,7 +44,7 @@ SeHyun Park
 | 2023 | ML | 패널 Survey 응답 예측  | 팀장 | [링크]() |
 | 2024 | 크롤링 | 언론사 정치 성향별 최근 대통령 5명 관련 기사 분석 | 팀장 | [링크]() |
 | 2024 | 데이터분석 | 베이지안 모델링을 이용한 국회본회의 회의록 중 '게임' 분석 | 개인 | [링크]() |
-| 2024 | DL | SSL을 이용한 차량 엔진 및 배기음 anomaly detection 모델 개발 | 팀원 | [링크](https://github.com/sh200220/Alpha_Project-) |
+| 2024 | DL | SSL을 이용한 차량 엔진 및 배기음 anomaly detection 모델 개발 | 팀원 | [링크](https://github.com/sh200220/Alpha_Project) |
 | 2024 | 데이터분석 | 기업 환경 평가 제도(CDP)가 기업 가치에 미치는 영향 | 팀장 | [링크]() |
 
 ## 🌟 Experience
