@@ -27,42 +27,7 @@ SeHyun Park
 | :------: | :------: | :------: | :------: |
 | 2024 | ADsP | 한국데이터산업진흥원 | 영구 |
 | 2024 | SQLD | 한국데이터산업진흥원 | 2년 |
-
-## 🏅 Competition
-| 연도 | 주최 | 내용 | 역할 | 비고 | 수상 |
-| :------: | :------: | :------: | :------: | :------: |:------: |
-| 2023 | BDA | 데이터 분석 활용 공모전 | 팀장 | [링크]() | 본선진출 |
-| 2023 | 국민대학교 기후변화대응 사업단 | 기후변화대응 비즈니스 아이디어 공모전 | 팀장 | [링크]() |  |
-| 2023 | 중소벤처기업부 | 제4회 중소기업 통계데이터 활용 정책아이디어 공모전 | 팀원 | [링크]() |  |
-| 2024 | 국토교통부 | 국토교통 데이터 활용 경진대회 | 팀장 | [링크]() |  |
-| 2025 | 환경부 | 환경 데이터 분석eHyun Park
-* Kookmin Univ
-
-## ☎️ Contact
- <img src="https://img.shields.io/badge/sh200220@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>
-
-## 🛠 Technical Skills
- * Main Tech  
-   <span>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
-   </span>
-
- * Used at least once  
-   <span>
-   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>    
-   </span>
-
-## 📚 Education
-| 기간 | 소속 | 전공 & 교육 | 학위 | 비고 |
-| :------: | :------: | :------: | :------: | :------: |
-| 2020.03 ~ | 국민대학교 | 빅데이터경영통계전공(AI빅데이터융합경영학과) | 제1전공 | 재학 |
-| 2023.10 ~ | 국민대학교 | 데이터사이언스융합전공 | 융합전공 | 재학 |
-
-## 🪪 Certificate  
-| 취득 연도 | 자격증 | 주관 | 유효기간 |
-| :------: | :------: | :------: | :------: |
-| 2024 | ADsP | 한국데이터산업진흥원 | 영구 |
-| 2024 | SQLD | 한국데이터산업진흥원 | 2년 |
+| 2024 | 빅데이터분석기사 | 한국데이터산업진흥원 | 영구 |
 
 ## 🏅 Competition
 | 연도 | 주최 | 내용 | 역할 | 비고 | 수상 |
@@ -70,8 +35,8 @@ SeHyun Park
 | 2023 | BDA | 데이터 분석 활용 공모전 | 팀장 | [링크](https://github.com/sh200220/CJgong) | 본선진출 |
 | 2023 | 국민대학교 기후변화대응 사업단 | 기후변화대응 비즈니스 아이디어 공모전 | 팀장 | [링크](https://github.com/sh200220/Ngong) |  |
 | 2023 | 중소벤처기업부 | 제4회 중소기업 통계데이터 활용 정책아이디어 공모전 | 팀원 | [링크](https://github.com/sh200220/MSgong) |  |
-| 2024 | 국토교통부 | 국토교통 데이터 활용 경진대회 | 팀장 | [링크]() |  |
-| 2025 | 환경부 | 환경 데이터 분석 및 활용 공모전 | 팀원 | [링크]() |  |
+| 2024 | 국토교통부 | 국토교통 데이터 활용 경진대회 | 팀장 | [링크](https://github.com/sh200220/DL) |  |
+| 2025 | 환경부 | 환경 데이터 분석 및 활용 공모전 | 팀원 | [링크](https://github.com/sh200220/NGgong) |  |
 
 ## 💻 Project
 | 연도 | 분류 | 프로젝트명 | 역할 | 비고 |
